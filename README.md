@@ -1,1 +1,1 @@
-# tinyproxy
+# TinyHTTP(s)Proxy
