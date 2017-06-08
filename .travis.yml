@@ -5,4 +5,4 @@ python:
     - 3.5
 
 install: python setup.py install 
-script: tinyproxy
+script: python TinyProxy.py
